@@ -3,6 +3,9 @@
 ## Project Overview
 This project aims to develop a comprehensive URL shortening service similar to Bitly, with additional functionalities such as QR code generation and detailed usage tracking. The service will be built using the MERN stack (MongoDB, Express, React, Node.js) and hosted on Microsoft Azure, utilizing Azure Functions, Azure Blob Storage, and Azure Cosmos DB. This project will provide users with the ability to create short URLs, generate corresponding QR codes, and track usage statistics through intuitive graphs and analytics.
 
+
+![Screenshot 2024-06-08 153802](https://github.com/PrinceSinghhub/urlShortener/assets/71000042/dca6a8e0-b1fd-4bee-80d5-f7049dee06cf)
+
 ## Source Code Not Uploaded Due to the Copy & Pasting ⚠️
 ## Objectives
 
@@ -83,6 +86,8 @@ This project aims to develop a comprehensive URL shortening service similar to B
 - Configure Azure Blob Storage to securely store QR code images.
 - Set appropriate access controls and permissions for blob storage.
 
+![AzUrlShortener (1)](https://github.com/PrinceSinghhub/urlShortener/assets/71000042/39b6b50e-d35a-45ae-ba52-fbcac0809c0b)
+
 ### Testing and Optimization
 
 **Unit Testing:**
@@ -116,6 +121,9 @@ This project aims to develop a comprehensive URL shortening service similar to B
 ### Database
 - **Table Structure:** Stores essential data like the original URL, short URL, creation timestamp, and click count.
 - **Data Management:** Ensures efficient storage and retrieval of URL data, handles incrementing click counts, and provides data for statistical analysis.
+
+## Video 📽️
+
 
 ## Step-by-Step Process
 
