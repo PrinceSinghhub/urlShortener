@@ -125,6 +125,10 @@ This project aims to develop a comprehensive URL shortening service similar to B
 ## Video 📽️
 
 
+https://github.com/PrinceSinghhub/urlShortener/assets/71000042/3c0ae723-abd2-4a28-b39a-5b3210083ac8
+
+
+
 ## Step-by-Step Process
 
 ### User Input and URL Shortening
